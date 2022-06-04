@@ -1,0 +1,14 @@
+.footer {
+  display: flex;
+  height: 100px;
+  width: 100%;
+  bottom: 0;
+  position: absolute;
+  justify-content: center;
+  align-items: center;
+  flex-direction: row;
+}
+
+.buttonsContainer {
+  margin: 0px 10px;
+}

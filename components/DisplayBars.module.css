@@ -1,0 +1,13 @@
+.barContainer {
+  width: 100%;
+  height: calc(100vh - 100px);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.bar {
+  width: 10px;
+  margin: 0px 1px;
+  display: inline-block;
+}
